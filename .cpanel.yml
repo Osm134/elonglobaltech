@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/m1pmsbzqn4vh/public_html/
+    - /bin/rm -rf ${DEPLOYPATH}assets
+    - /bin/cp -R dist/* ${DEPLOYPATH}

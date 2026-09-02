@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "label": "Careers & Opportunities",
+    "headline": "Your Next Role Starts Here.",
+    "subtext": "Access top opportunities with leading US and India enterprises. Whether you're a seasoned consultant or exploring new horizons — we'll find the right fit."
+  },
+  "whyWork": {
+    "headline": "Why Work With Elyon?",
+    "items": [
+      {
+        "id": "ww-1",
+        "title": "Access to Top Employers",
+        "description": "Direct relationships with enterprise clients across the US and India — roles that aren't posted publicly."
+      },
+      {
+        "id": "ww-2",
+        "title": "Dedicated Recruiter Support",
+        "description": "A dedicated recruiter who understands your skills, goals, and career trajectory — not just your resume."
+      },
+      {
+        "id": "ww-3",
+        "title": "Fast Placement Process",
+        "description": "From submission to offer in days, not weeks. We move at the speed of opportunity."
+      },
+      {
+        "id": "ww-4",
+        "title": "Compliance & Benefits",
+        "description": "Full legal compliance, competitive pay rates, and benefits support for all engagement types."
+      }
+    ]
+  },
+  "jobTypes": {
+    "headline": "Engagement Types We Place",
+    "items": [
+      {
+        "id": "jt-1",
+        "type": "Contract",
+        "description": "Short to long-term contract roles with top US enterprises."
+      },
+      {
+        "id": "jt-2",
+        "type": "Contract-to-Hire",
+        "description": "Start on contract with a clear path to permanent employment."
+      },
+      {
+        "id": "jt-3",
+        "type": "Permanent",
+        "description": "Direct hire placements for full-time career opportunities."
+      },
+      {
+        "id": "jt-4",
+        "type": "C2C / Corp-to-Corp",
+        "description": "Opportunities for independent consultants and small firms."
+      }
+    ]
+  },
+  "submitResume": {
+    "headline": "Submit Your Resume",
+    "subtext": "Send us your resume and a brief note about the type of roles you're targeting. Our team will reach out within 24–48 hours.",
+    "email": "admin@elyonglobaltech.com",
+    "buttonLabel": "Send Your Resume"
+  },
+  "consultantMarketing": {
+    "headline": "Already on the Bench?",
+    "subtext": "If you're an available consultant looking for your next engagement, our bench sales team actively markets your profile to our network of vendors and direct clients.",
+    "buttonLabel": "Get Marketed Now"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "label": "About Us",
+    "headline": "Built on Expertise. Driven by Results.",
+    "subtext": "Elyon Global Technologies is a workforce solutions firm with 5+ years of US market experience and a growing India operations base in Secunderabad."
+  },
+  "story": {
+    "headline": "Our Story",
+    "paragraphs": [
+      "Elyon Global Technologies was founded with a clear mission: to bridge the gap between exceptional talent and the organizations that need them most.",
+      "With over five years of experience serving US enterprises and a newly established operations center in Secunderabad, India, we are positioned to deliver workforce solutions at a global scale.",
+      "Today, we serve clients across IT, finance, healthcare, and manufacturing sectors, offering everything from contract staffing to executive search and RPO."
+    ]
+  },
+  "mission": {
+    "headline": "Mission & Vision",
+    "mission": "To deliver precision workforce solutions that connect businesses with exceptional talent — efficiently, compliantly, and at scale.",
+    "vision": "To be the most trusted workforce partner for enterprises operating across the US and India markets."
+  },
+  "values": [
+    {
+      "id": "val-1",
+      "title": "Integrity",
+      "description": "We operate with full transparency — in our process, our pricing, and our commitments."
+    },
+    {
+      "id": "val-2",
+      "title": "Speed",
+      "description": "Qualified candidates in 48–72 hours. We move fast without cutting corners."
+    },
+    {
+      "id": "val-3",
+      "title": "Compliance",
+      "description": "Every engagement is fully compliant with US and India labor regulations."
+    },
+    {
+      "id": "val-4",
+      "title": "Partnership",
+      "description": "We invest in long-term relationships, not one-time transactions."
+    }
+  ],
+  "presence": {
+    "headline": "Our Global Presence",
+    "offices": [
+      {
+        "id": "off-1",
+        "country": "United States",
+        "city": "St. Petersburg, FL",
+        "flag": "🇺🇸",
+        "role": "Client Operations & Business Development",
+        "phone": "",
+        "email": "admin@elyonglobaltech.com"
+      },
+      {
+        "id": "off-2",
+        "country": "India",
+        "city": "Secunderabad, Telangana",
+        "flag": "🇮🇳",
+        "role": "Delivery Center & Domestic Recruitment",
+        "phone": "+91 94414 54411",
+        "email": "admin@elyonglobaltech.com"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Let's Build Something Together",
+    "subtext": "Whether you're hiring or looking for your next opportunity — we're ready.",
+    "buttonLabel": "Get in Touch"
+  }
+}

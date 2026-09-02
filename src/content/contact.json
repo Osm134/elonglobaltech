@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "label": "Contact Us",
+    "headline": "Let's Start the Conversation.",
+    "subtext": "Whether you're looking to hire top talent or find your next opportunity — our team is ready to help."
+  },
+  "offices": [
+    {
+      "id": "office-us",
+      "country": "United States",
+      "city": "St. Petersburg, FL",
+      "flag": "🇺🇸",
+      "address": "7901 4th St N Ste. 300, St. Petersburg, FL 33702, USA",
+      "phone": "",
+      "email": "admin@elyonglobaltech.com",
+      "description": "Client operations, business development, and US staffing inquiries."
+    },
+    {
+      "id": "office-in",
+      "country": "India",
+      "city": "Secunderabad",
+      "flag": "🇮🇳",
+      "address": "Shop 18, 19, Archana Enclave, East Maredapally, Secunderabad, 500026",
+      "phone": "+91 94414 54411",
+      "email": "admin@elyonglobaltech.com",
+      "description": "Delivery center, domestic recruitment, and India operations."
+    }
+  ],
+  "form": {
+    "headline": "Send Us a Message",
+    "subtext": "Fill out the form and we'll get back to you within one business day.",
+    "inquiryTypes": [
+      "Hiring Talent",
+      "Finding a Job",
+      "RPO / Managed Services",
+      "Bench Sales",
+      "General Inquiry"
+    ]
+  }
+}

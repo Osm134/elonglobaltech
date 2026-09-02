@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "label": "Our Services",
+    "headline": "Every Hiring Need. One Partner.",
+    "subtext": "From contract IT staffing to C-level executive search — we deliver workforce solutions built for speed, compliance, and scale."
+  },
+  "services": [
+    {
+      "id": "svc-it",
+      "slug": "it-staffing",
+      "title": "IT Staffing",
+      "tagline": "Right talent. Right time. Every time.",
+      "description": "We source, screen, and place top-tier IT professionals across contract, contract-to-hire, and permanent roles. Our deep bench of pre-vetted candidates spans software engineering, cloud, data, cybersecurity, and more.",
+      "highlights": [
+        "Contract & Contract-to-Hire",
+        "Permanent Placement",
+        "US & India Markets",
+        "48–72 Hour Turnaround"
+      ],
+      "icon": "code"
+    },
+    {
+      "id": "svc-rpo",
+      "slug": "rpo",
+      "title": "Recruitment Process Outsourcing",
+      "tagline": "Your hiring engine. Fully managed.",
+      "description": "Outsource your entire recruitment function or specific stages of the hiring process. Our RPO model scales with your growth, reduces cost-per-hire, and delivers consistent quality across all roles.",
+      "highlights": [
+        "Full-Cycle RPO",
+        "Partial RPO",
+        "Scalable Delivery Model",
+        "Dedicated Recruiters"
+      ],
+      "icon": "layers"
+    },
+    {
+      "id": "svc-aug",
+      "slug": "staff-augmentation",
+      "title": "Staff Augmentation",
+      "tagline": "Extend your team. Not your overhead.",
+      "description": "Rapidly scale your workforce with skilled professionals who integrate seamlessly into your existing teams. Ideal for project-based needs, peak demand periods, and specialized skill gaps.",
+      "highlights": [
+        "On-Demand Talent",
+        "Project-Based Staffing",
+        "Seamless Team Integration",
+        "Flexible Engagements"
+      ],
+      "icon": "users"
+    },
+    {
+      "id": "svc-exec",
+      "slug": "executive-hiring",
+      "title": "Executive & C-Level Hiring",
+      "tagline": "Leadership that moves the needle.",
+      "description": "Precision search for VP, Director, C-suite, and board-level roles. We combine deep market intelligence with a confidential, high-touch process to identify leaders who drive measurable outcomes.",
+      "highlights": [
+        "C-Suite & VP Search",
+        "Director-Level Hiring",
+        "Confidential Search",
+        "Market Intelligence"
+      ],
+      "icon": "briefcase"
+    },
+    {
+      "id": "svc-bench",
+      "slug": "bench-sales",
+      "title": "Bench Sales & Consultant Marketing",
+      "tagline": "Keep your bench working.",
+      "description": "Maximize consultant utilization with our proven bench marketing service. We actively market your available consultants to our network of vendors and direct clients, reducing bench time and increasing revenue.",
+      "highlights": [
+        "Active Consultant Marketing",
+        "Vendor Network Access",
+        "Direct Client Connections",
+        "Reduced Bench Time"
+      ],
+      "icon": "trending-up"
+    },
+    {
+      "id": "svc-vendor",
+      "slug": "vendor-management",
+      "title": "Vendor Management",
+      "tagline": "Streamlined. Compliant. Efficient.",
+      "description": "Navigate complex MSP and VMS environments with confidence. We manage vendor relationships, ensure compliance, and optimize your supplier ecosystem for maximum efficiency and cost control.",
+      "highlights": [
+        "MSP/VMS Expertise",
+        "Compliance Management",
+        "Supplier Optimization",
+        "Cost Reduction"
+      ],
+      "icon": "settings"
+    },
+    {
+      "id": "svc-domestic",
+      "slug": "domestic-recruitment",
+      "title": "Domestic Recruitment (India)",
+      "tagline": "India's talent. Precisely placed.",
+      "description": "Comprehensive Non-IT and cross-functional hiring across India's key markets. From entry-level to senior management, we connect businesses with the right professionals across all major cities.",
+      "highlights": [
+        "Non-IT Hiring",
+        "Cross-Functional Roles",
+        "Pan-India Coverage",
+        "Senior Management Search"
+      ],
+      "icon": "map-pin"
+    }
+  ],
+  "cta": {
+    "headline": "Ready to Build Your Team?",
+    "subtext": "Tell us your requirements and we'll match you with the right service and the right talent.",
+    "buttonLabel": "Talk to Our Team"
+  }
+}

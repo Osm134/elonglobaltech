@@ -1,0 +1,206 @@
+{
+  "hero": {
+    "headline": "Global Workforce Solutions.",
+    "headlineAccent": "Delivered.",
+    "subtext": "Connecting US and India enterprises with exceptional talent — from contract staffing to C-level executive search.",
+    "ctaPrimary": "Hire Talent",
+    "ctaSecondary": "Find Jobs"
+  },
+  "trustBar": {
+    "label": "Growing presence across",
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Years in US Market",
+        "id": "IlA-3DS8lYIuoqtxwHRPF"
+      },
+      {
+        "value": "200+",
+        "label": "Placements Made",
+        "id": "LKiynKlRPJXfLosHyqlcz"
+      },
+      {
+        "value": "50+",
+        "label": "Clients Served",
+        "id": "G9VGpvef4p2C8v-lIzlH-"
+      },
+      {
+        "value": "2",
+        "label": "Global Offices",
+        "id": "LC8Q6PCg85a3khOhx7Xo2"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "What We Do",
+    "headline": "End-to-End Workforce Solutions",
+    "subtext": "From contract staffing to executive search — we deliver the right talent, at the right time.",
+    "items": [
+      {
+        "id": "svc-1",
+        "title": "IT Staffing",
+        "description": "Contract, contract-to-hire, and permanent IT professionals across the US and India.",
+        "size": "large"
+      },
+      {
+        "id": "svc-2",
+        "title": "Recruitment Process Outsourcing",
+        "description": "Full-cycle RPO solutions that scale with your hiring demands.",
+        "size": "medium"
+      },
+      {
+        "id": "svc-3",
+        "title": "Staff Augmentation",
+        "description": "On-demand talent to extend your team without the overhead.",
+        "size": "medium"
+      },
+      {
+        "id": "svc-4",
+        "title": "Executive & C-Level Hiring",
+        "description": "Precision search for leadership roles that drive business outcomes.",
+        "size": "medium"
+      },
+      {
+        "id": "svc-5",
+        "title": "Bench Sales",
+        "description": "Maximize consultant utilization with our proven bench marketing.",
+        "size": "small"
+      },
+      {
+        "id": "svc-6",
+        "title": "Vendor Management",
+        "description": "Streamlined supplier relationships and MSP/VMS expertise.",
+        "size": "small"
+      },
+      {
+        "id": "svc-7",
+        "title": "Domestic Recruitment",
+        "description": "Non-IT and cross-functional hiring across India's key markets.",
+        "size": "small"
+      }
+    ]
+  },
+  "stats": {
+    "headline": "The Numbers Behind Our Impact",
+    "items": [
+      {
+        "id": "stat-1",
+        "value": 5,
+        "suffix": "+",
+        "label": "Years in the US Market",
+        "sublabel": "Serving US enterprises"
+      },
+      {
+        "id": "stat-2",
+        "value": 200,
+        "suffix": "+",
+        "label": "Placements Delivered",
+        "sublabel": "Across US & India"
+      },
+      {
+        "id": "stat-3",
+        "value": 50,
+        "suffix": "+",
+        "label": "Clients Served",
+        "sublabel": "IT & Non-IT sectors"
+      },
+      {
+        "id": "stat-4",
+        "value": 2,
+        "suffix": "",
+        "label": "Global Offices",
+        "sublabel": "Dallas, TX & Hyderabad, India"
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionLabel": "Why Elyon",
+    "headline": "Built for Results. Not Resumes.",
+    "items": [
+      {
+        "id": "why-1",
+        "number": "01",
+        "title": "Speed Without Compromise",
+        "description": "Our pre-vetted talent network delivers qualified candidates in 48–72 hours — without sacrificing fit or quality."
+      },
+      {
+        "id": "why-2",
+        "number": "02",
+        "title": "US–India Dual Advantage",
+        "description": "Onshore client relationships backed by offshore delivery depth. Two markets, one seamless operation."
+      },
+      {
+        "id": "why-3",
+        "number": "03",
+        "title": "Compliance-First Hiring",
+        "description": "Full legal, tax, and regulatory compliance across all engagement types — contract, C2H, and permanent."
+      }
+    ]
+  },
+  "industries": {
+    "sectionLabel": "Industries We Serve",
+    "headline": "Deep Expertise Across Key Sectors",
+    "items": [
+      {
+        "id": "ind-1",
+        "name": "Technology"
+      },
+      {
+        "id": "ind-2",
+        "name": "Banking & Finance"
+      },
+      {
+        "id": "ind-3",
+        "name": "Healthcare & Life Sciences"
+      },
+      {
+        "id": "ind-4",
+        "name": "Manufacturing"
+      },
+      {
+        "id": "ind-5",
+        "name": "Retail & E-Commerce"
+      },
+      {
+        "id": "ind-6",
+        "name": "Energy & Utilities"
+      },
+      {
+        "id": "ind-7",
+        "name": "Telecommunications"
+      },
+      {
+        "id": "ind-8",
+        "name": "Insurance"
+      },
+      {
+        "id": "ind-9",
+        "name": "Logistics & Supply Chain"
+      },
+      {
+        "id": "ind-10",
+        "name": "Government & Public Sector"
+      },
+      {
+        "id": "ind-11",
+        "name": "Media & Entertainment"
+      },
+      {
+        "id": "ind-12",
+        "name": "Education"
+      }
+    ]
+  },
+  "cta": {
+    "employers": {
+      "headline": "Looking to Hire?",
+      "subtext": "Tell us your requirements. We'll deliver qualified candidates — fast.",
+      "buttonLabel": "Start Hiring"
+    },
+    "candidates": {
+      "headline": "Ready for Your Next Role?",
+      "subtext": "Access top opportunities with leading US and India enterprises.",
+      "buttonLabel": "Explore Jobs"
+    }
+  }
+}

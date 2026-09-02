@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "label": "Industries",
+    "headline": "Deep Expertise Across Key Sectors",
+    "subtext": "We understand the talent landscape in every industry we serve — delivering professionals who hit the ground running."
+  },
+  "industries": [
+    {
+      "id": "ind-tech",
+      "name": "Technology",
+      "description": "Software engineers, cloud architects, data scientists, DevOps, and cybersecurity professionals for product and enterprise tech companies.",
+      "roles": [
+        "Software Engineers",
+        "Cloud Architects",
+        "Data Scientists",
+        "DevOps Engineers",
+        "Cybersecurity Analysts"
+      ]
+    },
+    {
+      "id": "ind-fin",
+      "name": "Banking & Finance",
+      "description": "Risk analysts, compliance officers, fintech developers, and financial systems specialists for banks, insurance firms, and investment companies.",
+      "roles": [
+        "Risk Analysts",
+        "Compliance Officers",
+        "Fintech Developers",
+        "Financial Systems Specialists"
+      ]
+    },
+    {
+      "id": "ind-health",
+      "name": "Healthcare & Life Sciences",
+      "description": "Clinical informatics, healthcare IT, regulatory affairs, and life sciences professionals supporting hospitals, pharma, and biotech firms.",
+      "roles": [
+        "Healthcare IT",
+        "Clinical Informatics",
+        "Regulatory Affairs",
+        "Biotech Specialists"
+      ]
+    },
+    {
+      "id": "ind-mfg",
+      "name": "Manufacturing",
+      "description": "Industrial engineers, supply chain managers, quality assurance specialists, and automation professionals for manufacturing operations.",
+      "roles": [
+        "Industrial Engineers",
+        "Supply Chain Managers",
+        "QA Specialists",
+        "Automation Engineers"
+      ]
+    },
+    {
+      "id": "ind-retail",
+      "name": "Retail & E-Commerce",
+      "description": "E-commerce developers, digital marketers, supply chain analysts, and customer experience professionals for retail and DTC brands.",
+      "roles": [
+        "E-Commerce Developers",
+        "Digital Marketers",
+        "Supply Chain Analysts",
+        "CX Professionals"
+      ]
+    },
+    {
+      "id": "ind-energy",
+      "name": "Energy & Utilities",
+      "description": "Engineers, project managers, and technical specialists supporting oil & gas, renewable energy, and utility infrastructure projects.",
+      "roles": [
+        "Project Engineers",
+        "Energy Analysts",
+        "Grid Specialists",
+        "Renewable Energy Experts"
+      ]
+    },
+    {
+      "id": "ind-telecom",
+      "name": "Telecommunications",
+      "description": "Network engineers, telecom architects, and OSS/BSS specialists for carriers, ISPs, and telecom infrastructure companies.",
+      "roles": [
+        "Network Engineers",
+        "Telecom Architects",
+        "OSS/BSS Specialists"
+      ]
+    },
+    {
+      "id": "ind-insurance",
+      "name": "Insurance",
+      "description": "Actuaries, underwriters, claims specialists, and insurance technology professionals for carriers and brokers.",
+      "roles": [
+        "Actuaries",
+        "Underwriters",
+        "Claims Specialists",
+        "InsurTech Developers"
+      ]
+    },
+    {
+      "id": "ind-logistics",
+      "name": "Logistics & Supply Chain",
+      "description": "Supply chain analysts, logistics coordinators, warehouse management specialists, and ERP professionals.",
+      "roles": [
+        "Supply Chain Analysts",
+        "Logistics Coordinators",
+        "WMS Specialists",
+        "ERP Consultants"
+      ]
+    },
+    {
+      "id": "ind-govt",
+      "name": "Government & Public Sector",
+      "description": "IT professionals, program managers, and policy analysts supporting federal, state, and local government agencies.",
+      "roles": [
+        "IT Program Managers",
+        "Policy Analysts",
+        "Government IT Specialists"
+      ]
+    }
+  ],
+  "cta": {
+    "headline": "Don't See Your Industry?",
+    "subtext": "We work across many more sectors. Reach out and let's discuss your specific talent needs.",
+    "buttonLabel": "Contact Us"
+  }
+}

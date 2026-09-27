@@ -130,25 +130,73 @@ export default function Footer() {
               Contact
             </h4>
             <div className="space-y-5">
-              {/* US Office */}
-              <div>
-                <p className="text-xs font-semibold text-white/40 uppercase tracking-wider mb-2" style={{ fontFamily: 'var(--font-heading)' }}>
-                  United States
-                </p>
-                <div className="space-y-2">
-                  <div className="flex items-start gap-2">
-                    <MapPin size={13} className="mt-0.5 shrink-0" style={{ color: '#D4A017' }} />
-                    <span className="text-xs leading-relaxed" style={{ color: 'rgba(255,255,255,0.55)', fontFamily: 'var(--font-sans)' }}>
-                      7901 4th St N Ste. 300,<br />St. Petersburg, FL 33702, USA
-                    </span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <Mail size={13} className="shrink-0" style={{ color: '#D4A017' }} />
-                    <a href="mailto:admin@elyonglobaltech.com" className="text-xs hover:text-white transition-colors" style={{ color: 'rgba(255,255,255,0.55)', fontFamily: 'var(--font-sans)' }}>admin@elyonglobaltech.com
-                    </a>
-                  </div>
-                </div>
-              </div>
+             {/* US Office */}
+<div>
+  <p
+    className="text-xs font-semibold text-white/40 uppercase tracking-wider mb-2"
+    style={{ fontFamily: 'var(--font-heading)' }}
+  >
+    United States
+  </p>
+
+  <div className="space-y-2">
+    <div className="flex items-start gap-2">
+      <MapPin
+        size={13}
+        className="mt-0.5 shrink-0"
+        style={{ color: '#D4A017' }}
+      />
+      <span
+        className="text-xs leading-relaxed"
+        style={{
+          color: 'rgba(255,255,255,0.55)',
+          fontFamily: 'var(--font-sans)'
+        }}
+      >
+        7901 4th St N Ste. 300,<br />
+        St. Petersburg, FL 33702, USA
+      </span>
+    </div>
+
+    {/* USA Phone */}
+    <div className="flex items-center gap-2">
+      <Phone
+        size={13}
+        className="shrink-0"
+        style={{ color: '#D4A017' }}
+      />
+      <a
+        href="tel:+15718996999"
+        className="text-xs hover:text-white transition-colors"
+        style={{
+          color: 'rgba(255,255,255,0.55)',
+          fontFamily: 'var(--font-sans)'
+        }}
+      >
+        (571) 899-6999
+      </a>
+    </div>
+
+    {/* USA Email */}
+    <div className="flex items-center gap-2">
+      <Mail
+        size={13}
+        className="shrink-0"
+        style={{ color: '#D4A017' }}
+      />
+      <a
+        href="mailto:admin@elyonglobaltech.com"
+        className="text-xs hover:text-white transition-colors"
+        style={{
+          color: 'rgba(255,255,255,0.55)',
+          fontFamily: 'var(--font-sans)'
+        }}
+      >
+        admin@elyonglobaltech.com
+      </a>
+    </div>
+  </div>
+</div>
 
               {/* India Office */}
               <div>
